@@ -1,0 +1,49 @@
+This is BibTeX, Version 0.99d (TeX Live 2019/W32TeX)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: main.aux
+The style file: acm.bst
+Database file #1: main.bib
+Warning--empty note in Gathmann2018
+Warning--empty journal in goller2019does
+You've used 19 entries,
+            2253 wiz_defined-function locations,
+            634 strings with 7283 characters,
+and the built_in function-call counts, 5908 in all, are:
+= -- 564
+> -- 293
+< -- 0
++ -- 124
+- -- 102
+* -- 442
+:= -- 989
+add.period$ -- 56
+call.type$ -- 19
+change.case$ -- 105
+chr.to.int$ -- 0
+cite$ -- 21
+duplicate$ -- 206
+empty$ -- 466
+format.name$ -- 102
+if$ -- 1206
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 17
+newline$ -- 96
+num.names$ -- 38
+pop$ -- 108
+preamble$ -- 1
+purify$ -- 87
+quote$ -- 0
+skip$ -- 138
+stack$ -- 0
+substring$ -- 316
+swap$ -- 52
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 74
+warning$ -- 2
+while$ -- 58
+width$ -- 21
+write$ -- 186
+(There were 2 warnings)

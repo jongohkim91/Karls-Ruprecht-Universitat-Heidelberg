@@ -1,0 +1,112 @@
+\begin{thebibliography}{10}
+
+\bibitem{athey2018impact}
+{\sc Athey, S.}
+\newblock The impact of machine learning on economics.
+\newblock In {\em The economics of artificial intelligence: An agenda}.
+  University of Chicago Press, 2018.
+
+\bibitem{boockmann2011evaluation}
+{\sc Boockmann, B., Harsch, K., Kirchmann, A., Klee, G., Kleimann, R., Klempt,
+  C., Koch, A., Krumm, R., Neumann, M., Rattenhuber, P., et~al.}
+\newblock Evaluation bestehender mindestlohnregelungen branche: Pflege.
+\newblock {\em Abschlussbericht an das Bundesministeriums f{\"u}r Arbeit und
+  Soziales. T{\"u}bingen: Institut f{\"u}r Angewandte Wirtschaftsforschung\/}
+  (2011).
+
+\bibitem{breiman2001random}
+{\sc Breiman, L.}
+\newblock Random forests.
+\newblock {\em Machine learning 45}, 1 (2001), 5--32.
+
+\bibitem{brown2018estimating}
+{\sc Brown, K., Merrigan, P., and Royer, J.}
+\newblock Estimating average treatment effects with propensity scores estimated
+  with four machine learning procedures: Simulation results in high dimensional
+  settings and with time to event outcomes.
+\newblock {\em Available at SSRN 3272396\/} (2018).
+
+\bibitem{brownlee}
+{\sc Brownlee, J.}
+\newblock Classification and regression trees for machine learning, 2019.
+
+\bibitem{cannas2019comparison}
+{\sc Cannas, M., and Arpino, B.}
+\newblock A comparison of machine learning algorithms and covariate balance
+  measures for propensity score matching and weighting.
+\newblock {\em Biometrical Journal\/} (2019).
+
+\bibitem{chen2016xgboost}
+{\sc Chen, T., and Guestrin, C.}
+\newblock Xgboost: A scalable tree boosting system.
+\newblock In {\em Proceedings of the 22nd acm sigkdd international conference
+  on knowledge discovery and data mining\/} (2016), ACM, pp.~785--794.
+
+\bibitem{cortes1995support}
+{\sc Cortes, C., and Vapnik, V.}
+\newblock Support-vector networks.
+\newblock {\em Machine learning 20}, 3 (1995), 273--297.
+
+\bibitem{friedman2001greedy}
+{\sc Friedman, J.~H.}
+\newblock Greedy function approximation: a gradient boosting machine.
+\newblock {\em Annals of statistics\/} (2001), 1189--1232.
+
+\bibitem{Gathmann2018}
+{\sc Gathmann, C., Gregory, T., and Zapp, K.}
+\newblock {Minimum Wage and Automation - An Empirical Analysis for Germany}.
+\newblock 2018.
+
+\bibitem{BundesamtClassification}
+{\sc Germany, F. S.~O.}
+\newblock Structure of the classification of economic activities, edition 2008
+  (wz 2008).
+\newblock {\em Federal Statistical Office Germany\/} (2008).
+
+\bibitem{goller2019does}
+{\sc Goller, D., Lechner, M., Moczall, A., and Wolff, J.}
+\newblock Does the estimation of the propensity score by machine learning
+  improve matching estimation? the case of germany's programmes for long term
+  unemployed.
+
+\bibitem{ho1995random}
+{\sc Ho, T.~K.}
+\newblock Random decision forests.
+\newblock In {\em Proceedings of 3rd international conference on document
+  analysis and recognition\/} (1995), vol.~1, IEEE, pp.~278--282.
+
+\bibitem{jaggi2013equivalence}
+{\sc Jaggi, M.}
+\newblock An equivalence between the lasso and support vector machines.
+\newblock {\em Regularization, optimization, kernels, and support vector
+  machines\/} (2013), 1--26.
+
+\bibitem{koller2007introduction}
+{\sc Koller, D., Friedman, N., D{\v{z}}eroski, S., Sutton, C., McCallum, A.,
+  Pfeffer, A., Abbeel, P., Wong, M.-F., Heckerman, D., Meek, C., et~al.}
+\newblock {\em Introduction to statistical relational learning}.
+\newblock MIT press, 2007.
+
+\bibitem{JSSv028i05}
+{\sc Kuhn, M.}
+\newblock Building predictive models in r using the caret package.
+\newblock {\em Journal of Statistical Software, Articles 28}, 5 (2008), 1--26.
+
+\bibitem{lee2010improving}
+{\sc Lee, B.~K., Lessler, J., and Stuart, E.~A.}
+\newblock Improving propensity score weighting using machine learning.
+\newblock {\em Statistics in medicine 29}, 3 (2010), 337--346.
+
+\bibitem{pafka}
+{\sc Pafka, S.}
+\newblock benchm-ml.
+\newblock \\url{https://github.com/szilard/benchm-ml}, 2019.
+
+\bibitem{rubin2001using}
+{\sc Rubin, D.~B.}
+\newblock Using propensity scores to help design observational studies:
+  application to the tobacco litigation.
+\newblock {\em Health Services and Outcomes Research Methodology 2}, 3-4
+  (2001), 169--188.
+
+\end{thebibliography}
