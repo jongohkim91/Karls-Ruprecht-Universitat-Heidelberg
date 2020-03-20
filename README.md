@@ -1,2 +1,2 @@
 # Thesis
-The repository contains code files and resources to write my Economics Master's thesis in 2019 in Ruprecht-Karls-Universität Heidelberg
+The repository contains multiple code files and reports which I have done during my Economics Master's program in Karls Ruprecth Universiät Heidelberg.
